@@ -1,0 +1,20 @@
+{
+    "name": "aakash-shahi/ipgetter",
+    "description": "Get current user IP address",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aakash-Shahi",
+            "email": "ashahi157@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "IPGetter\\": "src/getip"
+        }
+    }
+}
