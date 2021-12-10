@@ -17,5 +17,6 @@
             "IPGetter\\": "src/getip"
         }
     },
+    "minimum-stability" : "stable",
     "prefer-stable": true
 }
