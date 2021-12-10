@@ -5,7 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Aakash-Shahi",
+            "name": "aakash-shahi",
             "email": "ashahi157@gmail.com"
         }
     ],
@@ -16,5 +16,7 @@
         "psr-4": {
             "IPGetter\\": "src/getip"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
